@@ -1,6 +1,8 @@
 ## Introduction
 This repository documents my journey of learning PyTorch, a popular framework for deep learning. It contains practical projects and experiments that I am undertaking as part of my educational process, exploring various concepts and techniques in machine learning and deep learning using PyTorch.
 
+> All scripts are developed in the **Spyder** IDE (from the Anaconda distribution)
+
 ## Sources of Knowledge
 I draw my knowledge and inspiration from the excellent courses created by **mrdbourke**. His tutorials and materials have significantly helped me understand PyTorch. I encourage you to check out his work:
 - [mrdbourke's GitHub Repository](https://github.com/mrdbourke/pytorch-deep-learning)
@@ -13,6 +15,7 @@ I draw my knowledge and inspiration from the excellent courses created by **mrdb
 - **`02-first-model.py`**: Python script for building and training a simple model.
 - **`03-classification.py`**: Python script focused on classification tasks using PyTorch.
 - **`04-computer-vision.py`**: Python script exploring computer vision applications in PyTorch.
+- **`05-custom-datasets.py`**: Python script demonstrating how to create custom datasets in PyTorch
 - **`README.md`**: This file, providing an overview of the repository.
 
 ## Purpose
